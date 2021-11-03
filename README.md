@@ -1,6 +1,6 @@
 # Terraformer
 
-Silly test edit file link [main.go](main.go)
+Silly test edit file link [](main.go)
 
 [![tests](https://github.com/GoogleCloudPlatform/terraformer/actions/workflows/test.yml/badge.svg)](https://github.com/GoogleCloudPlatform/terraformer/actions/workflows/test.yml)
 [![linter](https://github.com/GoogleCloudPlatform/terraformer/actions/workflows/linter.yml/badge.svg)](https://github.com/GoogleCloudPlatform/terraformer/actions/workflows/linter.yml)
